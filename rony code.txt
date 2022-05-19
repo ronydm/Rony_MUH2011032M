@@ -1,0 +1,118 @@
+\documentclass[a4paper]{article}
+
+\usepackage[english]{babel}
+\usepackage{pbox}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{stackengine}[2013-10-15]
+\newcommand\textss[1]{\stackengine{.9ex}{}{\scriptsize#1}{O}{l}{F}{F}{L}}
+
+\title{Indoor Air Quality Assessment of Campus Spaces with Carbon Dioxide (CO$_{2}$) as a Measure of Adverse Health Effects}
+\author{ K M Aslam Uddin , NSTU}
+
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+ Indoor air quality (IAQ) is referred to as “the air quality within and around buildings and structures, especially as it relates to the health and comfort of building occupants” (US EPA, 2015). Indoor pollutant levels further determine the quality of indoor air, and one of the indicators used to measure IAQ is carbon dioxide (CO$_{2}$). Drawing on data collected from a classroom, auditorium, and gym setting in the Mount Royal University campus, the aim of this report is to determine if CO$_{2}$ levels present are within established margins substantial to result in adverse health effects.
+\end{abstract}
+
+\section{Introduction}
+Indoor air quality (IAQ) is a frequent and relevant health and safety concern in many confined environments where human occupancy exists. IAQ is referred to as “the air quality within and around buildings and structures, especially as it relates to the health and comfort of building occupants” (US EPA, 2015). As individuals spend approximately 90 percent of their time indoors (US EPA, 2015) it is important to recognize that adverse health effects can occur from poor air quality. Common indoor air pollutants include formaldehyde, molds, allergens, gas-burning furnaces and appliances, radon gas, and secondhand smoke (CDC, 2014). 
+
+
+This study aims to analyze the CO$_{2}$ levels in a variety of campus spaces: auditoriums, classrooms and a gym setting and to determine if the CO$_{2}$ concentrations exceed levels correlated to adverse health effects. Our main objectives are to analyze CO$_{2}$ in an outdoor setting as well as the Mount Royal University Recreation Center weight room during empty, peak and non-peak hours over a period of three days. We will also be analyzing the average CO$_{2}$ levels in an auditorium and a classroom setting when it is occupied with students and unoccupied over a period of three sessions. \\
+
+
+\section{Methodology}
+
+\subsection{Collection of data}
+Colorimetric gas detection tubes (CO$_{2}$ 300-5000 ppm) and a hand held pump were used to gather CO$_{2}$ concentrations in specified indoor spaces on MRU campus. The sampling occurred in a classroom, auditorium and a weight room in the fitness center for three separate days spaced out over a three-week time frame. For each specified classroom and auditorium setting, a baseline sample was taken at the beginning of the class session (prior to being occupied with students) with the doors closed. Another reading was taken after the class has ceased its session (before the students exited). For the weight room in the fitness center, a baseline sample was taken at opening hour (i.e. 06:00) prior to being occupied with students. Another reading obtained on the same day was taken at peak occupancy hour at 18:30. A non-peak occupancy was taken at closing hour (i.e. 23:00). A reading of the outdoor CO$_{2}$ levels was taken each day the indoor data was collected. Three days within a three-week time frame during the month of October and November were chosen for data collection. Locations were chosen based on varying room size and supplied air volume with varying occupancy load with the dates determined by convenience. 
+
+\
+
+\subsection{Data Analysis}
+
+The data obtained is referenced to established ASHRAE standards and the scientific literature.
+
+\section{Results}
+
+\begin{tabular}{|l|c |c|r|r|}
+    \hline
+    Name & Gender & Algorithm & Best Case & Expected \\
+    \hline
+    rony & Male & Selection sort & O(N2)  & O(N2)\\
+    \hline
+    sharmin & Female & Merge sort & O(NlogN) & O(NlogN)\\
+    \hline
+    jeni & Male & Linear search & O(1) & O(N)\\
+    \hline
+    tonu & Female & Binary search & O(1) & O(logN)\\
+    \hline
+    sadu & Male & Flow chart & O(N) & O(logN) \\
+    \hline
+    \end{tabular}
+
+
+
+\section{Discussion}
+
+\subsection{Synthesis of key findings}
+The average indoor CO$_{2}$ concentrations detected in the selected indoor spaces were below the established 2500 ppm ASHRAE threshold levels; hence, it is not likely to pose any long term health risks to students. However, the average CO$_{2}$ levels at peak occupancy are above the 1000 ppm recommendation by ASHRAE guidelines for indoor comfort and within the range for short term effects (Satish et al, 2012). The results obtained in this study indicate that the ventilation rates in these specific locations are in compliance with the standards as the supply air is above the minimum ventilation rates in the breathing zone for acceptable indoor air quality. It is notable that supply air volumes are usually much higher due to ventilation (outdoor) air being mixed with room air (ASHRAE, 2013); 
+\subsection{Hazardous effects corresponding to increased CO$_{2}$}
+67 percent of samples taken during the peak occupation had values greater than 1000 ppm  CO$_{2}$ (Satish et al, 2012) which is has been identified as a threshold for cognitive effects. At these levels relative to the baseline data collected, it can be expected that there will be short-term mental impairments such as: task orientation, information usage and applied activity (Satish et al, 2012). Levels above baseline CO$_{2}$ levels may increase the prevalence of conditions such as headaches, lower respiratory issues and eye irritations (Apte, 2000). A more recent study suggests that in conjunction with the negative effects, the ability to concentrate on individual tasks increases with elevated CO$_{2}$ levels; peaking at 2500 ppm relative to the 600 ppm baseline (Satish et al, 2012).
+
+\subsection{Human respiration}
+Respiration of indoor occupants is the primary source of elevated CO$_{2}$ in indoor settings (Seppänen, 1999; Apte, 2000), and the average adult breath respires about 35,000 to 50,000 ppm of CO$_{2}$ (Prill, 2000). Rooms that have poor ventilation can lead to concentrations of approximately 3000 ppm CO$_{2}$ solely from human respiration (Health Canada, 1989). Furthermore, it is advised that CO$_{2}$ levels do not exceed 700 ppm above outdoor ambient air, 
+
+\subsection{Limitations}
+There are many compounding factors associated with this experiment that must be taken into account. Due to the nature of the experiment it was important to allow human movement in and out of the test locations in order to achieve a representative result. Having doors opened or closed within the indoor space would change the status of the system, therefore affecting the amount of air exchange between the room and hallways. This would result in varying air circulation rates over the course of the testing periods. Over a longer period with a greater number of samples, a representative average could be attained. With the limited number of samples (n=3) gathered for each room, coupled with the limited time frame, it is difficult to determine.
+
+ \subsection{Future research recommendations}
+This study stipulates that there is a strong relationship between elevated indoor CO$_{2}$ levels with the number of occupants present in an indoor setting. Drawing from the results of this study, appropriate ventilation levels that would decrease the risk for adverse health effects can be indicated by the concentration of CO$_{2}$ in a fully occupied space. However, CO$_{2}$ is only one parameter to determine the quality of indoor air; 
+\section{Conclusion}
+The results drawn from this study indicate that we can obtain a general illustration of CO2 levels in a variety of indoor spaces. Furthermore, fine-tuned adjustments can be made to the HVAC systems so as to increase the airflow in a confined indoor space. Other suggestions include using portable ventilation systems, ensuring that adequate maintenance is established, and retrofitting applicable indoor spaces where necessary.
+
+\section{Equations}
+\begin{equation}\label{my_first_eqn}
+	e=mc^2
+\end{equation}
+\begin{equation}\label{my_first_eqn}
+	(c+d)^2 = c^2 + 2cd + d^2
+\end{equation}
+\begin{equation}\label{my_first_eqn}
+	log(xy) = log(x) + log(y)
+\end{equation}
+
+
+
+ \begin{thebibliography}{1}
+  \bibitem{impj8} United States Environmental Protection Agency. Ventilation for Acceptable Indoor Air Quality. ANSI/ASHRAE Standard.\textbf{accessed Nov 28, 2015}. {\em http://www2.epa.gov/indoor-air-quality-iaq/introduction-indoor-air-quality}.
+
+
+  \bibitem{impj10} Yocom, J.E.; \& MacCarthy S. M. Measuring indoor air quality: A particle guide. \textbf{1993}. {\em John Wiley and Sons}.
+  \end{thebibliography}
+\pagebreak
+\section{Appendix}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8\textwidth]{NOFUN.png}
+\caption{\label{fig:1}Peak CO$_{2}$ values for the selected locations on the days specified over a three week period}
+\end{figure}
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8\textwidth]{GRAYLIFE.png}
+\caption{\label{fig:2}Plot of the relationship between the occupants in selected indoor spaces and the resulting CO$_{2}$ concentrations.}
+\end{figure}
+\begin{figure}[h]
+\centering
+\includegraphics[width=1.0\textwidth]{raw.png}
+\caption{\label{fig.3}The raw data recorded for various locations on MRU campus.}
+\end{figure}
+
+sitemap.png
+\end{document}
